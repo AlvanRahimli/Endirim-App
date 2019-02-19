@@ -10,7 +10,7 @@ namespace Dendi.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Dendi App";
 
             return View();
         }

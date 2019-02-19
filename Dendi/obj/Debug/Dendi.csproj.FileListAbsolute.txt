@@ -95,3 +95,4 @@ C:\Users\alvan\source\repos\Dendi\Dendi\obj\Debug\Dendi.csproj.CoreCompileInputs
 C:\Users\alvan\source\repos\Dendi\Dendi\obj\Debug\Dendi.csproj.CopyComplete
 C:\Users\alvan\source\repos\Dendi\Dendi\obj\Debug\Dendi.dll
 C:\Users\alvan\source\repos\Dendi\Dendi\obj\Debug\Dendi.pdb
+C:\Users\alvan\source\repos\Dendi\Dendi\bin\XmlDocument.xml

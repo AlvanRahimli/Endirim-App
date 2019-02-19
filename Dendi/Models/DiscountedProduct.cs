@@ -6,10 +6,20 @@ using System.Web;
 
 namespace Dendi.Models
 {
+    /// <summary>
+    /// Inherited from Product class
+    /// </summary>
     public class DiscountedProduct : Product
     {
-        [Range(0,100)] [Required]
+        /// <summary>
+        /// Discount percentage
+        /// </summary>
+        [Range(0,100)]
+        [Required]
         public decimal Discount { get; set; }
+        /// <summary>
+        /// Price after discount
+        /// </summary>
         public decimal LastPrice { get; set; }
     }
 }
