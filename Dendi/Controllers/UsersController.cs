@@ -286,7 +286,11 @@ namespace Dendi.Controllers
             }
         }
 
-        // Hashing passwords
+        /// <summary>
+        /// Hashes given string With SHA256
+        /// </summary>
+        /// <param name="inputString">Input string. Usually is User's password</param>
+        /// <returns>Hashed string</returns>
         [NonAction]
         private static string Hashing(string inputString)
         {
